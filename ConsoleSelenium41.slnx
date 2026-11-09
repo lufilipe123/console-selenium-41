@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleSelenium.Tests/ConsoleSelenium.Tests.csproj" />
+  <Project Path="ConsoleSelenium/ConsoleSelenium.csproj" />
+</Solution>
